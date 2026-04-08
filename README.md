@@ -144,7 +144,4 @@ jupyter notebook
 
 ---
 
-## 👨‍💻 Autor
 
-Theo José Luna Leal
-Projeto acadêmico de análise de dados
